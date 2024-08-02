@@ -1,2 +1,2 @@
 # Quiz-Panel
-A Quiz panel using Html, CSS and JavaScript
+A single Quiz panel using Html, CSS and JavaScript
